@@ -10,3 +10,6 @@
 2. ejecutar el siguiente código:
 `pip install -r requirements.txt`
 3. ejecutar el código main_image_saving.py ubicado en la carpeta src
+
+## Dataset:
+* [Zenodo](https://zenodo.org/records/11114229)
